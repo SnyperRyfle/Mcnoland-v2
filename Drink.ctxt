@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Drink
+comment1.params=type
+comment1.target=Drink(DrinkType)
+comment2.params=
+comment2.target=DrinkType\ getType()
+comment3.params=
+comment3.target=void\ displayInfo()
+numComments=4

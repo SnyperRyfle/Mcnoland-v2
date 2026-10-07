@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Burger
+comment1.params=type
+comment1.target=Burger(BurgerType)
+comment2.params=
+comment2.target=BurgerType\ getType()
+comment3.params=
+comment3.target=void\ displayInfo()
+numComments=4

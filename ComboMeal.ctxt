@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ComboMeal
+comment1.params=name\ burger\ drink\ dessert\ discount
+comment1.target=ComboMeal(java.lang.String,\ Burger,\ Drink,\ Dessert,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getDisplayInfo()
+comment3.params=
+comment3.target=Burger\ getBurger()
+comment4.params=
+comment4.target=Drink\ getDrink()
+comment5.params=
+comment5.target=Dessert\ getDessert()
+comment6.params=
+comment6.target=double\ getDiscount()
+numComments=7

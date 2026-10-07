@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=OrderItem
+comment1.params=item\ quantity
+comment1.target=OrderItem(FoodItem,\ int)
+comment2.params=
+comment2.target=double\ getTotalPrice()
+comment3.params=
+comment3.target=java.lang.String\ serialize()
+comment4.params=data
+comment4.target=OrderItem\ deserialize(java.lang.String)
+comment5.params=
+comment5.target=FoodItem\ getItem()
+comment6.params=
+comment6.target=int\ getQuantity()
+numComments=7

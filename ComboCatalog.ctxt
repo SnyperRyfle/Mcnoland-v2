@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ComboCatalog
+comment1.params=burgerCatalog\ drinkCatalog\ dessertCatalog
+comment1.target=ComboCatalog(BurgerCatalog,\ DrinkCatalog,\ DessertCatalog)
+numComments=2

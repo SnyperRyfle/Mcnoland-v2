@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DrinkCatalog
+comment1.params=
+comment1.target=DrinkCatalog()
+comment2.params=
+comment2.target=java.util.List\ getAllDrinks()
+numComments=3

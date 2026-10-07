@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FoodCatalog
+comment1.params=item
+comment1.target=void\ addItem(FoodItem)
+comment2.params=
+comment2.target=void\ displayMenu()
+comment3.params=index
+comment3.target=FoodItem\ getItem(int)
+comment4.params=
+comment4.target=int\ getSize()
+comment5.params=
+comment5.target=java.util.ArrayList\ getAllItems()
+numComments=6

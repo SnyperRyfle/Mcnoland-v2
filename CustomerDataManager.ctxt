@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CustomerDataManager
+comment1.params=customer\ password
+comment1.target=void\ saveCustomer(McnolandCustomer,\ java.lang.String)
+comment2.params=email\ password
+comment2.target=McnolandCustomer\ authenticateCustomer(java.lang.String,\ java.lang.String)
+comment3.params=email
+comment3.target=boolean\ emailExists(java.lang.String)
+numComments=4
